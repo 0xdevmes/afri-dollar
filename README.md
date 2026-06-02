@@ -277,8 +277,8 @@ We welcome contributions! Please see our contributing guidelines for details.
 
 ### Founders
 
-- **Eleazar Musa** - Founder & Software Engineer
-- **Ebube Ebuka Onuora** - CEO / Founder
+- **Eleazar Musa** - Founder
+- **Ebube Ebuka Onuora** - Co-Founder
 - **Jethro Adamu** - CTO / Co-Founder
 
 ## License
@@ -298,6 +298,7 @@ For support, email dev.mes.anonfedora@gmail.com or open an issue in the reposito
 ## Links
 
 - [GitHub Organization Repository](https://github.com/DigiAfricaEra/afri-dollar)
+- [Telegram Channel](https://t.me/DigiAfrcaEra)
 - [Documentation](https://prickle-kryptops-023.notion.site/AfriDollar-Documentation-370b31338d4c803ab47edb04cc3928a3)
 - [Whitepaper](https://prickle-kryptops-023.notion.site/AfriDollar-Whitepaper-370b31338d4c80569f9ce2b0796f85c4)
 - [Compliance Policies](https://prickle-kryptops-023.notion.site/AfriDollar-Compliance-Policies-370b31338d4c807db9e0db2e746b2c98)
